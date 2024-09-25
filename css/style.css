@@ -1,0 +1,55 @@
+html{
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Merriweather';
+    src: url('https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap');
+    font-weight: 400;
+    font-style: normal;
+}
+
+
+
+
+.pacifico-regular {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+  .educ{
+    font-family: 'Merriweather', serif;
+    text-align: center;
+  }
+
+
+
+.text{
+    color: black;
+    margin-top: 50px;
+    text-align: center;
+    font-size: 48px;
+    
+}
+
+.default-text{
+    text-align: justify;
+    font-size: 16px;
+    line-height: 1.6;
+     font-family: "Pacifico", cursive;
+}
+
+
+.icon-block{
+    text-align: center;
+}
+
+.icon-block i{
+    font-size: 100px;
+    margin: 15px;
+    padding: 10px;
+    background-color: antiquewhite;
+    border-radius: 80%;
+}
