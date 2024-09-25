@@ -10,7 +10,10 @@ html{
 }
 
 
-
+span{
+    color: red;
+    font-weight: lighter;
+}
 
 .pacifico-regular {
     font-family: "Pacifico", cursive;
